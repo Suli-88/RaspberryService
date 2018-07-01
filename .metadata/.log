@@ -1,0 +1,776 @@
+!SESSION 2018-06-30 21:49:37.230 -----------------------------------------------
+eclipse.buildId=4.7.3.M20180330-0640
+java.version=1.8.0_171
+java.vendor=Oracle Corporation
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.java.product
+Command-line arguments:  -os linux -ws gtk -arch x86_64 -product org.eclipse.epp.package.java.product
+
+!ENTRY org.apache.ivyde.eclipse 1 0 2018-06-30 21:53:30.768
+!MESSAGE starting IvyDE plugin
+
+!ENTRY org.apache.ivyde.eclipse 1 0 2018-06-30 21:53:30.789
+!MESSAGE IvyDE plugin started
+
+!ENTRY org.eclipse.equinox.security 1 0 2018-06-30 22:07:01.555
+!MESSAGE New secure storage master password was generated (Linux libsecret integration module). 
+
+!ENTRY org.apache.ivyde.eclipse 2 0 2018-06-30 22:15:57.851
+!MESSAGE IvyDE container states of the project RaspWebApi doesn't exist.
+
+!ENTRY org.apache.ivyde.eclipse 4 4 2018-06-30 22:16:53.214
+!MESSAGE Some projects fail to be resolved
+!SUBENTRY 1 org.apache.ivyde.eclipse 4 4 2018-06-30 22:16:53.214
+!MESSAGE Impossible to resolve dependencies of rasp.web#ivy-api;1.0
+!SUBENTRY 2 org.apache.ivyde.eclipse 4 4 2018-06-30 22:16:53.214
+!MESSAGE unresolved dependency: org.springframework#org.springframework.web;3.2.0.RELEASE: not found
+!SUBENTRY 2 org.apache.ivyde.eclipse 4 4 2018-06-30 22:16:53.214
+!MESSAGE unresolved dependency: org.jboss.weld#weld-osgi-bundle;1.1.4.Final: org.jboss.weld#weld-core-parent;1.1.4.Final->org.jboss.weld#weld-parent;17
+
+!ENTRY org.apache.ivyde.eclipse 4 4 2018-06-30 22:20:57.978
+!MESSAGE Some projects fail to be resolved
+!SUBENTRY 1 org.apache.ivyde.eclipse 4 4 2018-06-30 22:20:57.978
+!MESSAGE Impossible to resolve dependencies of rasp.web#ivy-api;1.0
+!SUBENTRY 2 org.apache.ivyde.eclipse 4 4 2018-06-30 22:20:57.978
+!MESSAGE unresolved dependency: org.springframework#org.springframework.web;3.2.0.RELEASE: not found
+!SUBENTRY 2 org.apache.ivyde.eclipse 4 4 2018-06-30 22:20:57.978
+!MESSAGE unresolved dependency: org.jboss.weld#weld-osgi-bundle;1.1.4.Final: org.jboss.weld#weld-core-parent;1.1.4.Final->org.jboss.weld#weld-parent;17
+
+!ENTRY org.apache.ivyde.eclipse 4 4 2018-06-30 22:33:55.800
+!MESSAGE Some projects fail to be resolved
+!SUBENTRY 1 org.apache.ivyde.eclipse 4 4 2018-06-30 22:33:55.800
+!MESSAGE Impossible to resolve dependencies of rasp.web#ivy-api;1.0
+!SUBENTRY 2 org.apache.ivyde.eclipse 4 4 2018-06-30 22:33:55.800
+!MESSAGE unresolved dependency: org.jboss.weld#weld-osgi-bundle;1.1.4.Final: org.jboss.weld#weld-core-parent;1.1.4.Final->org.jboss.weld#weld-parent;17
+
+!ENTRY org.apache.ivyde.eclipse 4 4 2018-06-30 22:38:21.778
+!MESSAGE Some projects fail to be resolved
+!SUBENTRY 1 org.apache.ivyde.eclipse 4 4 2018-06-30 22:38:21.778
+!MESSAGE Impossible to resolve dependencies of rasp.web#ivy-api;1.0
+!SUBENTRY 2 org.apache.ivyde.eclipse 4 4 2018-06-30 22:38:21.778
+!MESSAGE unresolved dependency: org.springframework#org.springframework.web;3.2.0.RELEASE: not found
+!SUBENTRY 2 org.apache.ivyde.eclipse 4 4 2018-06-30 22:38:21.778
+!MESSAGE unresolved dependency: org.jboss.weld#weld-osgi-bundle;1.1.4.Final: org.jboss.weld#weld-core-parent;1.1.4.Final->org.jboss.weld#weld-parent;17
+
+!ENTRY org.apache.ivyde.eclipse 4 4 2018-06-30 22:39:30.576
+!MESSAGE Some projects fail to be resolved
+!SUBENTRY 1 org.apache.ivyde.eclipse 4 4 2018-06-30 22:39:30.576
+!MESSAGE Impossible to resolve dependencies of rasp.web#ivy-api;1.0
+!SUBENTRY 2 org.apache.ivyde.eclipse 4 4 2018-06-30 22:39:30.576
+!MESSAGE unresolved dependency: org.springframework#org.springframework.web;3.2.0.RELEASE: not found
+!SUBENTRY 2 org.apache.ivyde.eclipse 4 4 2018-06-30 22:39:30.576
+!MESSAGE unresolved dependency: org.jboss.weld#weld-osgi-bundle;1.1.4.Final: org.jboss.weld#weld-core-parent;1.1.4.Final->org.jboss.weld#weld-parent;17
+
+!ENTRY org.apache.ivyde.eclipse 2 0 2018-06-30 22:40:24.667
+!MESSAGE IvyDE container states of the project RaspData doesn't exist.
+
+!ENTRY org.apache.ivyde.eclipse 4 4 2018-06-30 22:40:26.214
+!MESSAGE Some projects fail to be resolved
+!SUBENTRY 1 org.apache.ivyde.eclipse 4 4 2018-06-30 22:40:26.215
+!MESSAGE Impossible to resolve dependencies of com.rasp.data#data;1.0
+!SUBENTRY 2 org.apache.ivyde.eclipse 4 4 2018-06-30 22:40:26.215
+!MESSAGE unresolved dependency: rasp.web#ivy-api;1.0: not found
+
+!ENTRY org.apache.ivyde.eclipse 2 0 2018-06-30 22:44:42.012
+!MESSAGE IvyDE container states of the project RaspData doesn't exist.
+
+!ENTRY org.apache.ivyde.eclipse 2 0 2018-06-30 22:44:42.046
+!MESSAGE IvyDE container states of the project RaspWebApi doesn't exist.
+
+!ENTRY org.eclipse.core.jobs 4 2 2018-06-30 22:45:33.304
+!MESSAGE An internal error occurred during: "Launching RaspWebApi build.xml".
+!STACK 0
+java.lang.NullPointerException
+	at org.eclipse.jdt.launching.JavaRuntime.isOptional(JavaRuntime.java:1234)
+	at org.eclipse.jdt.launching.JavaRuntime.resolveRuntimeClasspathEntry(JavaRuntime.java:1220)
+	at org.eclipse.jdt.launching.StandardClasspathProvider.resolveClasspath(StandardClasspathProvider.java:91)
+	at org.eclipse.jdt.internal.launching.RuntimeClasspathProvider.resolveClasspath(RuntimeClasspathProvider.java:65)
+	at org.eclipse.jdt.launching.JavaRuntime.resolveRuntimeClasspath(JavaRuntime.java:1557)
+	at org.eclipse.ant.internal.launching.AntLaunchingUtil.getCustomClasspath(AntLaunchingUtil.java:218)
+	at org.eclipse.ant.internal.launching.launchConfigurations.AntLaunchDelegate.launch(AntLaunchDelegate.java:205)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.launch(LaunchConfiguration.java:885)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.launch(LaunchConfiguration.java:739)
+	at org.eclipse.debug.internal.ui.DebugUIPlugin.buildAndLaunch(DebugUIPlugin.java:1039)
+	at org.eclipse.debug.internal.ui.DebugUIPlugin$8.run(DebugUIPlugin.java:1256)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:56)
+
+!ENTRY org.eclipse.ant.ui 4 0 2018-06-30 22:45:43.999
+!MESSAGE Internal error occurred retrieving targets
+!STACK 0
+java.lang.NullPointerException
+	at org.eclipse.jdt.launching.JavaRuntime.isOptional(JavaRuntime.java:1234)
+	at org.eclipse.jdt.launching.JavaRuntime.resolveRuntimeClasspathEntry(JavaRuntime.java:1220)
+	at org.eclipse.jdt.launching.StandardClasspathProvider.resolveClasspath(StandardClasspathProvider.java:91)
+	at org.eclipse.jdt.internal.launching.RuntimeClasspathProvider.resolveClasspath(RuntimeClasspathProvider.java:65)
+	at org.eclipse.jdt.launching.JavaRuntime.resolveRuntimeClasspath(JavaRuntime.java:1557)
+	at org.eclipse.ant.internal.launching.AntLaunchingUtil.getCustomClasspath(AntLaunchingUtil.java:218)
+	at org.eclipse.ant.internal.ui.AntUtil.getCustomClasspath(AntUtil.java:372)
+	at org.eclipse.ant.internal.ui.AntUtil.getTargets(AntUtil.java:181)
+	at org.eclipse.ant.internal.ui.launchConfigurations.AntTargetsTab$8.run(AntTargetsTab.java:542)
+	at org.eclipse.jface.operation.ModalContext.runInCurrentThread(ModalContext.java:437)
+	at org.eclipse.jface.operation.ModalContext.run(ModalContext.java:353)
+	at org.eclipse.ui.internal.WorkbenchWindow$14.run(WorkbenchWindow.java:2195)
+	at org.eclipse.swt.custom.BusyIndicator.showWhile(BusyIndicator.java:70)
+	at org.eclipse.ui.internal.WorkbenchWindow.run(WorkbenchWindow.java:2191)
+	at org.eclipse.ui.internal.progress.ProgressManager$RunnableWithStatus.run(ProgressManager.java:1124)
+	at org.eclipse.swt.custom.BusyIndicator.showWhile(BusyIndicator.java:70)
+	at org.eclipse.ui.internal.progress.ProgressManager.lambda$26(ProgressManager.java:1001)
+	at org.eclipse.swt.widgets.Synchronizer.syncExec(Synchronizer.java:233)
+	at org.eclipse.ui.internal.UISynchronizer.syncExec(UISynchronizer.java:144)
+	at org.eclipse.swt.widgets.Display.syncExec(Display.java:5535)
+	at org.eclipse.ui.internal.progress.ProgressManager.runInUI(ProgressManager.java:1001)
+	at org.eclipse.ant.internal.ui.launchConfigurations.AntTargetsTab.getTargets(AntTargetsTab.java:560)
+	at org.eclipse.ant.internal.ui.launchConfigurations.AntTargetsTab.initializeFrom(AntTargetsTab.java:681)
+	at org.eclipse.debug.ui.AbstractLaunchConfigurationTabGroup.initializeFrom(AbstractLaunchConfigurationTabGroup.java:90)
+	at org.eclipse.ant.internal.ui.launchConfigurations.AntTabGroup.initializeFrom(AntTabGroup.java:56)
+	at org.eclipse.debug.internal.ui.launchConfigurations.LaunchConfigurationTabGroupWrapper.initializeFrom(LaunchConfigurationTabGroupWrapper.java:201)
+	at org.eclipse.debug.internal.ui.launchConfigurations.LaunchConfigurationTabGroupViewer.displayInstanceTabs(LaunchConfigurationTabGroupViewer.java:856)
+	at org.eclipse.debug.internal.ui.launchConfigurations.LaunchConfigurationTabGroupViewer$10.run(LaunchConfigurationTabGroupViewer.java:727)
+	at org.eclipse.swt.custom.BusyIndicator.showWhile(BusyIndicator.java:70)
+	at org.eclipse.debug.internal.ui.launchConfigurations.LaunchConfigurationTabGroupViewer.inputChanged(LaunchConfigurationTabGroupViewer.java:744)
+	at org.eclipse.debug.internal.ui.launchConfigurations.LaunchConfigurationTabGroupViewer.setInput0(LaunchConfigurationTabGroupViewer.java:665)
+	at org.eclipse.debug.internal.ui.launchConfigurations.LaunchConfigurationTabGroupViewer.setInput(LaunchConfigurationTabGroupViewer.java:640)
+	at org.eclipse.debug.internal.ui.launchConfigurations.LaunchConfigurationsDialog.handleLaunchConfigurationSelectionChanged(LaunchConfigurationsDialog.java:1008)
+	at org.eclipse.debug.internal.ui.launchConfigurations.LaunchConfigurationsDialog$4.selectionChanged(LaunchConfigurationsDialog.java:621)
+	at org.eclipse.jface.viewers.StructuredViewer$3.run(StructuredViewer.java:872)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.ui.internal.JFaceUtil.lambda$0(JFaceUtil.java:44)
+	at org.eclipse.jface.util.SafeRunnable.run(SafeRunnable.java:173)
+	at org.eclipse.jface.viewers.StructuredViewer.firePostSelectionChanged(StructuredViewer.java:869)
+	at org.eclipse.jface.viewers.StructuredViewer.setSelection(StructuredViewer.java:1718)
+	at org.eclipse.jface.viewers.TreeViewer.setSelection(TreeViewer.java:1075)
+	at org.eclipse.jface.viewers.Viewer.setSelection(Viewer.java:380)
+	at org.eclipse.debug.internal.ui.launchConfigurations.LaunchConfigurationsDialog.doInitialTreeSelection(LaunchConfigurationsDialog.java:661)
+	at org.eclipse.debug.internal.ui.launchConfigurations.LaunchConfigurationsDialog.initializeContent(LaunchConfigurationsDialog.java:1150)
+	at org.eclipse.debug.internal.ui.launchConfigurations.LaunchConfigurationsDialog.createContents(LaunchConfigurationsDialog.java:481)
+	at org.eclipse.jface.window.Window.create(Window.java:426)
+	at org.eclipse.jface.dialogs.Dialog.create(Dialog.java:1096)
+	at org.eclipse.debug.internal.ui.launchConfigurations.LaunchConfigurationsDialog.create(LaunchConfigurationsDialog.java:380)
+	at org.eclipse.jface.window.Window.open(Window.java:783)
+	at org.eclipse.debug.internal.ui.launchConfigurations.LaunchConfigurationsDialog.open(LaunchConfigurationsDialog.java:1203)
+	at org.eclipse.debug.ui.DebugUITools$3.run(DebugUITools.java:629)
+	at org.eclipse.swt.custom.BusyIndicator.showWhile(BusyIndicator.java:70)
+	at org.eclipse.debug.ui.DebugUITools.openLaunchConfigurationDialogOnGroup(DebugUITools.java:637)
+	at org.eclipse.debug.ui.DebugUITools.openLaunchConfigurationDialogOnGroup(DebugUITools.java:570)
+	at org.eclipse.debug.ui.actions.OpenLaunchDialogAction.run(OpenLaunchDialogAction.java:82)
+	at org.eclipse.jface.action.Action.runWithEvent(Action.java:473)
+	at org.eclipse.jface.action.ActionContributionItem.handleWidgetSelection(ActionContributionItem.java:565)
+	at org.eclipse.jface.action.ActionContributionItem.lambda$4(ActionContributionItem.java:397)
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:86)
+	at org.eclipse.swt.widgets.Display.sendEvent(Display.java:5348)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1348)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1374)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1357)
+	at org.eclipse.swt.widgets.Widget.notifyListeners(Widget.java:1142)
+	at org.eclipse.jface.action.ActionContributionItem.lambda$8(ActionContributionItem.java:1257)
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:86)
+	at org.eclipse.swt.widgets.Display.sendEvent(Display.java:5348)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1348)
+	at org.eclipse.swt.widgets.Display.runDeferredEvents(Display.java:4602)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:4183)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$5.run(PartRenderingEngine.java:1150)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:336)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.run(PartRenderingEngine.java:1039)
+	at org.eclipse.e4.ui.internal.workbench.E4Workbench.createAndRunUI(E4Workbench.java:153)
+	at org.eclipse.ui.internal.Workbench.lambda$3(Workbench.java:680)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:336)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:594)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:148)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:151)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:196)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:134)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:104)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:388)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:243)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:653)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:590)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1499)
+	at org.eclipse.equinox.launcher.Main.main(Main.java:1472)
+
+!ENTRY org.eclipse.ant.ui 4 0 2018-06-30 22:45:47.397
+!MESSAGE Internal error occurred retrieving targets
+!STACK 0
+java.lang.NullPointerException
+	at org.eclipse.jdt.launching.JavaRuntime.isOptional(JavaRuntime.java:1234)
+	at org.eclipse.jdt.launching.JavaRuntime.resolveRuntimeClasspathEntry(JavaRuntime.java:1220)
+	at org.eclipse.jdt.launching.StandardClasspathProvider.resolveClasspath(StandardClasspathProvider.java:91)
+	at org.eclipse.jdt.internal.launching.RuntimeClasspathProvider.resolveClasspath(RuntimeClasspathProvider.java:65)
+	at org.eclipse.jdt.launching.JavaRuntime.resolveRuntimeClasspath(JavaRuntime.java:1557)
+	at org.eclipse.ant.internal.launching.AntLaunchingUtil.getCustomClasspath(AntLaunchingUtil.java:218)
+	at org.eclipse.ant.internal.ui.AntUtil.getCustomClasspath(AntUtil.java:372)
+	at org.eclipse.ant.internal.ui.AntUtil.getTargets(AntUtil.java:181)
+	at org.eclipse.ant.internal.ui.launchConfigurations.AntTargetsTab$8.run(AntTargetsTab.java:542)
+	at org.eclipse.jface.operation.ModalContext.runInCurrentThread(ModalContext.java:437)
+	at org.eclipse.jface.operation.ModalContext.run(ModalContext.java:353)
+	at org.eclipse.ui.internal.WorkbenchWindow$14.run(WorkbenchWindow.java:2195)
+	at org.eclipse.swt.custom.BusyIndicator.showWhile(BusyIndicator.java:70)
+	at org.eclipse.ui.internal.WorkbenchWindow.run(WorkbenchWindow.java:2191)
+	at org.eclipse.ui.internal.progress.ProgressManager$RunnableWithStatus.run(ProgressManager.java:1124)
+	at org.eclipse.swt.custom.BusyIndicator.showWhile(BusyIndicator.java:70)
+	at org.eclipse.ui.internal.progress.ProgressManager.lambda$26(ProgressManager.java:1001)
+	at org.eclipse.swt.widgets.Synchronizer.syncExec(Synchronizer.java:233)
+	at org.eclipse.ui.internal.UISynchronizer.syncExec(UISynchronizer.java:144)
+	at org.eclipse.swt.widgets.Display.syncExec(Display.java:5535)
+	at org.eclipse.ui.internal.progress.ProgressManager.runInUI(ProgressManager.java:1001)
+	at org.eclipse.ant.internal.ui.launchConfigurations.AntTargetsTab.getTargets(AntTargetsTab.java:560)
+	at org.eclipse.ant.internal.ui.launchConfigurations.AntTargetsTab.initializeFrom(AntTargetsTab.java:681)
+	at org.eclipse.ant.internal.ui.launchConfigurations.AntTargetsTab.isValid(AntTargetsTab.java:808)
+	at org.eclipse.debug.internal.ui.launchConfigurations.LaunchConfigurationTabGroupViewer.refresh(LaunchConfigurationTabGroupViewer.java:525)
+	at org.eclipse.debug.internal.ui.launchConfigurations.LaunchConfigurationTabGroupViewer.handleTabChange(LaunchConfigurationTabGroupViewer.java:430)
+	at org.eclipse.debug.internal.ui.launchConfigurations.LaunchConfigurationTabGroupViewer.access$5(LaunchConfigurationTabGroupViewer.java:413)
+	at org.eclipse.debug.internal.ui.launchConfigurations.LaunchConfigurationTabGroupViewer$6.widgetSelected(LaunchConfigurationTabGroupViewer.java:390)
+	at org.eclipse.swt.widgets.TypedListener.handleEvent(TypedListener.java:249)
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:86)
+	at org.eclipse.swt.widgets.Display.sendEvent(Display.java:5348)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1348)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1374)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1357)
+	at org.eclipse.swt.widgets.Widget.notifyListeners(Widget.java:1142)
+	at org.eclipse.swt.custom.CTabFolder.setSelection(CTabFolder.java:3175)
+	at org.eclipse.swt.custom.CTabFolder.onMouse(CTabFolder.java:1858)
+	at org.eclipse.swt.custom.CTabFolder.lambda$0(CTabFolder.java:328)
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:86)
+	at org.eclipse.swt.widgets.Display.sendEvent(Display.java:5348)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1348)
+	at org.eclipse.swt.widgets.Display.runDeferredEvents(Display.java:4602)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:4183)
+	at org.eclipse.jface.window.Window.runEventLoop(Window.java:818)
+	at org.eclipse.jface.window.Window.open(Window.java:794)
+	at org.eclipse.debug.internal.ui.launchConfigurations.LaunchConfigurationsDialog.open(LaunchConfigurationsDialog.java:1203)
+	at org.eclipse.debug.ui.DebugUITools$3.run(DebugUITools.java:629)
+	at org.eclipse.swt.custom.BusyIndicator.showWhile(BusyIndicator.java:70)
+	at org.eclipse.debug.ui.DebugUITools.openLaunchConfigurationDialogOnGroup(DebugUITools.java:637)
+	at org.eclipse.debug.ui.DebugUITools.openLaunchConfigurationDialogOnGroup(DebugUITools.java:570)
+	at org.eclipse.debug.ui.actions.OpenLaunchDialogAction.run(OpenLaunchDialogAction.java:82)
+	at org.eclipse.jface.action.Action.runWithEvent(Action.java:473)
+	at org.eclipse.jface.action.ActionContributionItem.handleWidgetSelection(ActionContributionItem.java:565)
+	at org.eclipse.jface.action.ActionContributionItem.lambda$4(ActionContributionItem.java:397)
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:86)
+	at org.eclipse.swt.widgets.Display.sendEvent(Display.java:5348)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1348)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1374)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1357)
+	at org.eclipse.swt.widgets.Widget.notifyListeners(Widget.java:1142)
+	at org.eclipse.jface.action.ActionContributionItem.lambda$8(ActionContributionItem.java:1257)
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:86)
+	at org.eclipse.swt.widgets.Display.sendEvent(Display.java:5348)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1348)
+	at org.eclipse.swt.widgets.Display.runDeferredEvents(Display.java:4602)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:4183)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$5.run(PartRenderingEngine.java:1150)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:336)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.run(PartRenderingEngine.java:1039)
+	at org.eclipse.e4.ui.internal.workbench.E4Workbench.createAndRunUI(E4Workbench.java:153)
+	at org.eclipse.ui.internal.Workbench.lambda$3(Workbench.java:680)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:336)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:594)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:148)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:151)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:196)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:134)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:104)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:388)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:243)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:653)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:590)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1499)
+	at org.eclipse.equinox.launcher.Main.main(Main.java:1472)
+
+!ENTRY org.eclipse.ant.ui 4 0 2018-06-30 22:46:29.136
+!MESSAGE Internal error occurred retrieving targets
+!STACK 0
+java.lang.NullPointerException
+	at org.eclipse.jdt.launching.JavaRuntime.isOptional(JavaRuntime.java:1234)
+	at org.eclipse.jdt.launching.JavaRuntime.resolveRuntimeClasspathEntry(JavaRuntime.java:1220)
+	at org.eclipse.jdt.launching.StandardClasspathProvider.resolveClasspath(StandardClasspathProvider.java:91)
+	at org.eclipse.jdt.internal.launching.RuntimeClasspathProvider.resolveClasspath(RuntimeClasspathProvider.java:65)
+	at org.eclipse.jdt.launching.JavaRuntime.resolveRuntimeClasspath(JavaRuntime.java:1557)
+	at org.eclipse.ant.internal.launching.AntLaunchingUtil.getCustomClasspath(AntLaunchingUtil.java:218)
+	at org.eclipse.ant.internal.ui.AntUtil.getCustomClasspath(AntUtil.java:372)
+	at org.eclipse.ant.internal.ui.AntUtil.getTargets(AntUtil.java:181)
+	at org.eclipse.ant.internal.ui.launchConfigurations.AntTargetsTab$8.run(AntTargetsTab.java:542)
+	at org.eclipse.jface.operation.ModalContext.runInCurrentThread(ModalContext.java:437)
+	at org.eclipse.jface.operation.ModalContext.run(ModalContext.java:353)
+	at org.eclipse.ui.internal.WorkbenchWindow$14.run(WorkbenchWindow.java:2195)
+	at org.eclipse.swt.custom.BusyIndicator.showWhile(BusyIndicator.java:70)
+	at org.eclipse.ui.internal.WorkbenchWindow.run(WorkbenchWindow.java:2191)
+	at org.eclipse.ui.internal.progress.ProgressManager$RunnableWithStatus.run(ProgressManager.java:1124)
+	at org.eclipse.swt.custom.BusyIndicator.showWhile(BusyIndicator.java:70)
+	at org.eclipse.ui.internal.progress.ProgressManager.lambda$26(ProgressManager.java:1001)
+	at org.eclipse.swt.widgets.Synchronizer.syncExec(Synchronizer.java:233)
+	at org.eclipse.ui.internal.UISynchronizer.syncExec(UISynchronizer.java:144)
+	at org.eclipse.swt.widgets.Display.syncExec(Display.java:5535)
+	at org.eclipse.ui.internal.progress.ProgressManager.runInUI(ProgressManager.java:1001)
+	at org.eclipse.ant.internal.ui.launchConfigurations.AntTargetsTab.getTargets(AntTargetsTab.java:560)
+	at org.eclipse.ant.internal.ui.launchConfigurations.AntTargetsTab.initializeFrom(AntTargetsTab.java:681)
+	at org.eclipse.debug.ui.AbstractLaunchConfigurationTabGroup.initializeFrom(AbstractLaunchConfigurationTabGroup.java:90)
+	at org.eclipse.ant.internal.ui.launchConfigurations.AntTabGroup.initializeFrom(AntTabGroup.java:56)
+	at org.eclipse.debug.internal.ui.launchConfigurations.LaunchConfigurationTabGroupWrapper.initializeFrom(LaunchConfigurationTabGroupWrapper.java:201)
+	at org.eclipse.debug.internal.ui.launchConfigurations.LaunchConfigurationTabGroupViewer.displayInstanceTabs(LaunchConfigurationTabGroupViewer.java:856)
+	at org.eclipse.debug.internal.ui.launchConfigurations.LaunchConfigurationTabGroupViewer$10.run(LaunchConfigurationTabGroupViewer.java:727)
+	at org.eclipse.swt.custom.BusyIndicator.showWhile(BusyIndicator.java:70)
+	at org.eclipse.debug.internal.ui.launchConfigurations.LaunchConfigurationTabGroupViewer.inputChanged(LaunchConfigurationTabGroupViewer.java:744)
+	at org.eclipse.debug.internal.ui.launchConfigurations.LaunchConfigurationTabGroupViewer.setInput0(LaunchConfigurationTabGroupViewer.java:665)
+	at org.eclipse.debug.internal.ui.launchConfigurations.LaunchConfigurationTabGroupViewer.setInput(LaunchConfigurationTabGroupViewer.java:640)
+	at org.eclipse.debug.internal.ui.launchConfigurations.LaunchConfigurationsDialog.handleLaunchConfigurationSelectionChanged(LaunchConfigurationsDialog.java:1008)
+	at org.eclipse.debug.internal.ui.launchConfigurations.LaunchConfigurationsDialog$4.selectionChanged(LaunchConfigurationsDialog.java:621)
+	at org.eclipse.jface.viewers.StructuredViewer$3.run(StructuredViewer.java:872)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.ui.internal.JFaceUtil.lambda$0(JFaceUtil.java:44)
+	at org.eclipse.jface.util.SafeRunnable.run(SafeRunnable.java:173)
+	at org.eclipse.jface.viewers.StructuredViewer.firePostSelectionChanged(StructuredViewer.java:869)
+	at org.eclipse.jface.viewers.StructuredViewer.setSelection(StructuredViewer.java:1718)
+	at org.eclipse.jface.viewers.TreeViewer.setSelection(TreeViewer.java:1075)
+	at org.eclipse.jface.viewers.Viewer.setSelection(Viewer.java:380)
+	at org.eclipse.debug.internal.ui.launchConfigurations.LaunchConfigurationsDialog.doInitialTreeSelection(LaunchConfigurationsDialog.java:661)
+	at org.eclipse.debug.internal.ui.launchConfigurations.LaunchConfigurationsDialog.initializeContent(LaunchConfigurationsDialog.java:1150)
+	at org.eclipse.debug.internal.ui.launchConfigurations.LaunchConfigurationsDialog.createContents(LaunchConfigurationsDialog.java:481)
+	at org.eclipse.jface.window.Window.create(Window.java:426)
+	at org.eclipse.jface.dialogs.Dialog.create(Dialog.java:1096)
+	at org.eclipse.debug.internal.ui.launchConfigurations.LaunchConfigurationsDialog.create(LaunchConfigurationsDialog.java:380)
+	at org.eclipse.jface.window.Window.open(Window.java:783)
+	at org.eclipse.debug.internal.ui.launchConfigurations.LaunchConfigurationsDialog.open(LaunchConfigurationsDialog.java:1203)
+	at org.eclipse.debug.ui.DebugUITools$3.run(DebugUITools.java:629)
+	at org.eclipse.swt.custom.BusyIndicator.showWhile(BusyIndicator.java:70)
+	at org.eclipse.debug.ui.DebugUITools.openLaunchConfigurationDialogOnGroup(DebugUITools.java:637)
+	at org.eclipse.debug.ui.DebugUITools.openLaunchConfigurationDialogOnGroup(DebugUITools.java:570)
+	at org.eclipse.debug.ui.actions.OpenLaunchDialogAction.run(OpenLaunchDialogAction.java:82)
+	at org.eclipse.jface.action.Action.runWithEvent(Action.java:473)
+	at org.eclipse.jface.action.ActionContributionItem.handleWidgetSelection(ActionContributionItem.java:565)
+	at org.eclipse.jface.action.ActionContributionItem.lambda$4(ActionContributionItem.java:397)
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:86)
+	at org.eclipse.swt.widgets.Display.sendEvent(Display.java:5348)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1348)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1374)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1357)
+	at org.eclipse.swt.widgets.Widget.notifyListeners(Widget.java:1142)
+	at org.eclipse.jface.action.ActionContributionItem.lambda$8(ActionContributionItem.java:1257)
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:86)
+	at org.eclipse.swt.widgets.Display.sendEvent(Display.java:5348)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1348)
+	at org.eclipse.swt.widgets.Display.runDeferredEvents(Display.java:4602)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:4183)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$5.run(PartRenderingEngine.java:1150)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:336)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.run(PartRenderingEngine.java:1039)
+	at org.eclipse.e4.ui.internal.workbench.E4Workbench.createAndRunUI(E4Workbench.java:153)
+	at org.eclipse.ui.internal.Workbench.lambda$3(Workbench.java:680)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:336)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:594)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:148)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:151)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:196)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:134)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:104)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:388)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:243)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:653)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:590)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1499)
+	at org.eclipse.equinox.launcher.Main.main(Main.java:1472)
+
+!ENTRY org.eclipse.ant.ui 4 0 2018-06-30 22:46:33.179
+!MESSAGE Internal error occurred retrieving targets
+!STACK 0
+java.lang.NullPointerException
+	at org.eclipse.jdt.launching.JavaRuntime.isOptional(JavaRuntime.java:1234)
+	at org.eclipse.jdt.launching.JavaRuntime.resolveRuntimeClasspathEntry(JavaRuntime.java:1220)
+	at org.eclipse.jdt.launching.StandardClasspathProvider.resolveClasspath(StandardClasspathProvider.java:91)
+	at org.eclipse.jdt.internal.launching.RuntimeClasspathProvider.resolveClasspath(RuntimeClasspathProvider.java:65)
+	at org.eclipse.jdt.launching.JavaRuntime.resolveRuntimeClasspath(JavaRuntime.java:1557)
+	at org.eclipse.ant.internal.launching.AntLaunchingUtil.getCustomClasspath(AntLaunchingUtil.java:218)
+	at org.eclipse.ant.internal.ui.AntUtil.getCustomClasspath(AntUtil.java:372)
+	at org.eclipse.ant.internal.ui.AntUtil.getTargets(AntUtil.java:181)
+	at org.eclipse.ant.internal.ui.launchConfigurations.AntTargetsTab$8.run(AntTargetsTab.java:542)
+	at org.eclipse.jface.operation.ModalContext.runInCurrentThread(ModalContext.java:437)
+	at org.eclipse.jface.operation.ModalContext.run(ModalContext.java:353)
+	at org.eclipse.ui.internal.WorkbenchWindow$14.run(WorkbenchWindow.java:2195)
+	at org.eclipse.swt.custom.BusyIndicator.showWhile(BusyIndicator.java:70)
+	at org.eclipse.ui.internal.WorkbenchWindow.run(WorkbenchWindow.java:2191)
+	at org.eclipse.ui.internal.progress.ProgressManager$RunnableWithStatus.run(ProgressManager.java:1124)
+	at org.eclipse.swt.custom.BusyIndicator.showWhile(BusyIndicator.java:70)
+	at org.eclipse.ui.internal.progress.ProgressManager.lambda$26(ProgressManager.java:1001)
+	at org.eclipse.swt.widgets.Synchronizer.syncExec(Synchronizer.java:233)
+	at org.eclipse.ui.internal.UISynchronizer.syncExec(UISynchronizer.java:144)
+	at org.eclipse.swt.widgets.Display.syncExec(Display.java:5535)
+	at org.eclipse.ui.internal.progress.ProgressManager.runInUI(ProgressManager.java:1001)
+	at org.eclipse.ant.internal.ui.launchConfigurations.AntTargetsTab.getTargets(AntTargetsTab.java:560)
+	at org.eclipse.ant.internal.ui.launchConfigurations.AntTargetsTab.initializeFrom(AntTargetsTab.java:681)
+	at org.eclipse.ant.internal.ui.launchConfigurations.AntTargetsTab.isValid(AntTargetsTab.java:808)
+	at org.eclipse.debug.internal.ui.launchConfigurations.LaunchConfigurationTabGroupViewer.refresh(LaunchConfigurationTabGroupViewer.java:525)
+	at org.eclipse.debug.internal.ui.launchConfigurations.LaunchConfigurationTabGroupViewer.handleTabChange(LaunchConfigurationTabGroupViewer.java:430)
+	at org.eclipse.debug.internal.ui.launchConfigurations.LaunchConfigurationTabGroupViewer.access$5(LaunchConfigurationTabGroupViewer.java:413)
+	at org.eclipse.debug.internal.ui.launchConfigurations.LaunchConfigurationTabGroupViewer$6.widgetSelected(LaunchConfigurationTabGroupViewer.java:390)
+	at org.eclipse.swt.widgets.TypedListener.handleEvent(TypedListener.java:249)
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:86)
+	at org.eclipse.swt.widgets.Display.sendEvent(Display.java:5348)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1348)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1374)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1357)
+	at org.eclipse.swt.widgets.Widget.notifyListeners(Widget.java:1142)
+	at org.eclipse.swt.custom.CTabFolder.setSelection(CTabFolder.java:3175)
+	at org.eclipse.swt.custom.CTabFolder.onMouse(CTabFolder.java:1858)
+	at org.eclipse.swt.custom.CTabFolder.lambda$0(CTabFolder.java:328)
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:86)
+	at org.eclipse.swt.widgets.Display.sendEvent(Display.java:5348)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1348)
+	at org.eclipse.swt.widgets.Display.runDeferredEvents(Display.java:4602)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:4183)
+	at org.eclipse.jface.window.Window.runEventLoop(Window.java:818)
+	at org.eclipse.jface.window.Window.open(Window.java:794)
+	at org.eclipse.debug.internal.ui.launchConfigurations.LaunchConfigurationsDialog.open(LaunchConfigurationsDialog.java:1203)
+	at org.eclipse.debug.ui.DebugUITools$3.run(DebugUITools.java:629)
+	at org.eclipse.swt.custom.BusyIndicator.showWhile(BusyIndicator.java:70)
+	at org.eclipse.debug.ui.DebugUITools.openLaunchConfigurationDialogOnGroup(DebugUITools.java:637)
+	at org.eclipse.debug.ui.DebugUITools.openLaunchConfigurationDialogOnGroup(DebugUITools.java:570)
+	at org.eclipse.debug.ui.actions.OpenLaunchDialogAction.run(OpenLaunchDialogAction.java:82)
+	at org.eclipse.jface.action.Action.runWithEvent(Action.java:473)
+	at org.eclipse.jface.action.ActionContributionItem.handleWidgetSelection(ActionContributionItem.java:565)
+	at org.eclipse.jface.action.ActionContributionItem.lambda$4(ActionContributionItem.java:397)
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:86)
+	at org.eclipse.swt.widgets.Display.sendEvent(Display.java:5348)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1348)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1374)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1357)
+	at org.eclipse.swt.widgets.Widget.notifyListeners(Widget.java:1142)
+	at org.eclipse.jface.action.ActionContributionItem.lambda$8(ActionContributionItem.java:1257)
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:86)
+	at org.eclipse.swt.widgets.Display.sendEvent(Display.java:5348)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1348)
+	at org.eclipse.swt.widgets.Display.runDeferredEvents(Display.java:4602)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:4183)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$5.run(PartRenderingEngine.java:1150)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:336)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.run(PartRenderingEngine.java:1039)
+	at org.eclipse.e4.ui.internal.workbench.E4Workbench.createAndRunUI(E4Workbench.java:153)
+	at org.eclipse.ui.internal.Workbench.lambda$3(Workbench.java:680)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:336)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:594)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:148)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:151)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:196)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:134)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:104)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:388)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:243)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:653)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:590)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1499)
+	at org.eclipse.equinox.launcher.Main.main(Main.java:1472)
+
+!ENTRY org.eclipse.jdt.launching 4 105 2018-06-30 22:47:12.513
+!MESSAGE The specified JRE installation does not exist
+
+!ENTRY org.eclipse.ant.launching 4 120 2018-06-30 22:47:12.513
+!MESSAGE Error logged from Ant UI: 
+!STACK 0
+java.net.SocketException: Socket closed
+	at java.net.PlainSocketImpl.socketAccept(Native Method)
+	at java.net.AbstractPlainSocketImpl.accept(AbstractPlainSocketImpl.java:409)
+	at java.net.ServerSocket.implAccept(ServerSocket.java:545)
+	at java.net.ServerSocket.accept(ServerSocket.java:513)
+	at org.eclipse.ant.internal.launching.launchConfigurations.RemoteAntBuildListener$ServerConnection.run(RemoteAntBuildListener.java:89)
+
+!ENTRY org.apache.ivyde.eclipse 4 4 2018-06-30 23:01:24.100
+!MESSAGE Some projects fail to be resolved
+!SUBENTRY 1 org.apache.ivyde.eclipse 4 4 2018-06-30 23:01:24.100
+!MESSAGE Impossible to resolve dependencies of com.rasp.data#data;1.0
+!SUBENTRY 2 org.apache.ivyde.eclipse 4 4 2018-06-30 23:01:24.100
+!MESSAGE unresolved dependency: org.jboss.weld#weld-osgi-bundle;1.1.4.Final: org.jboss.weld#weld-core-parent;1.1.4.Final->org.jboss.weld#weld-parent;17
+
+!ENTRY org.apache.ivyde.eclipse 4 4 2018-06-30 23:01:52.230
+!MESSAGE Some projects fail to be resolved
+!SUBENTRY 1 org.apache.ivyde.eclipse 4 4 2018-06-30 23:01:52.230
+!MESSAGE Impossible to resolve dependencies of com.rasp.data#data;1.0
+!SUBENTRY 2 org.apache.ivyde.eclipse 4 4 2018-06-30 23:01:52.230
+!MESSAGE unresolved dependency: org.jboss.weld#weld-osgi-bundle;1.1.4.Final: org.jboss.weld#weld-core-parent;1.1.4.Final->org.jboss.weld#weld-parent;17
+
+!ENTRY org.apache.ivyde.eclipse 4 4 2018-06-30 23:02:03.990
+!MESSAGE Some projects fail to be resolved
+!SUBENTRY 1 org.apache.ivyde.eclipse 4 4 2018-06-30 23:02:03.990
+!MESSAGE Impossible to resolve dependencies of com.rasp.data#data;1.0
+!SUBENTRY 2 org.apache.ivyde.eclipse 4 4 2018-06-30 23:02:03.990
+!MESSAGE unresolved dependency: org.jboss.weld#weld-osgi-bundle;1.1.4.Final: org.jboss.weld#weld-core-parent;1.1.4.Final->org.jboss.weld#weld-parent;17
+!SUBENTRY 1 org.apache.ivyde.eclipse 4 4 2018-06-30 23:02:03.990
+!MESSAGE Impossible to resolve dependencies of rasp.web#ivy-api;1.0
+!SUBENTRY 2 org.apache.ivyde.eclipse 4 4 2018-06-30 23:02:03.990
+!MESSAGE unresolved dependency: org.jboss.weld#weld-osgi-bundle;1.1.4.Final: org.jboss.weld#weld-core-parent;1.1.4.Final->org.jboss.weld#weld-parent;17
+
+!ENTRY org.apache.ivyde.eclipse 4 4 2018-06-30 23:02:06.584
+!MESSAGE Some projects fail to be resolved
+!SUBENTRY 1 org.apache.ivyde.eclipse 4 4 2018-06-30 23:02:06.584
+!MESSAGE Impossible to resolve dependencies of com.rasp.data#data;1.0
+!SUBENTRY 2 org.apache.ivyde.eclipse 4 4 2018-06-30 23:02:06.584
+!MESSAGE unresolved dependency: org.jboss.weld#weld-osgi-bundle;1.1.4.Final: org.jboss.weld#weld-core-parent;1.1.4.Final->org.jboss.weld#weld-parent;17
+!SUBENTRY 1 org.apache.ivyde.eclipse 4 4 2018-06-30 23:02:06.584
+!MESSAGE Impossible to resolve dependencies of rasp.web#ivy-api;1.0
+!SUBENTRY 2 org.apache.ivyde.eclipse 4 4 2018-06-30 23:02:06.584
+!MESSAGE unresolved dependency: org.jboss.weld#weld-osgi-bundle;1.1.4.Final: org.jboss.weld#weld-core-parent;1.1.4.Final->org.jboss.weld#weld-parent;17
+
+!ENTRY org.apache.ivyde.eclipse 4 4 2018-06-30 23:08:13.352
+!MESSAGE Some projects fail to be resolved
+!SUBENTRY 1 org.apache.ivyde.eclipse 4 4 2018-06-30 23:08:13.352
+!MESSAGE Impossible to resolve dependencies of com.rasp.data#data;1.0
+!SUBENTRY 2 org.apache.ivyde.eclipse 4 4 2018-06-30 23:08:13.352
+!MESSAGE unresolved dependency: org.jboss.weld#weld-osgi-bundle;1.1.4.Final: org.jboss.weld#weld-core-parent;1.1.4.Final->org.jboss.weld#weld-parent;17
+
+!ENTRY org.apache.ivyde.eclipse 4 4 2018-06-30 23:10:15.552
+!MESSAGE Some projects fail to be resolved
+!SUBENTRY 1 org.apache.ivyde.eclipse 4 4 2018-06-30 23:10:15.552
+!MESSAGE Impossible to resolve dependencies of com.rasp.data#data;1.0
+!SUBENTRY 2 org.apache.ivyde.eclipse 4 4 2018-06-30 23:10:15.552
+!MESSAGE unresolved dependency: org.springframework#org.springframework.web;3.2.0.RELEASE: not found
+!SUBENTRY 2 org.apache.ivyde.eclipse 4 4 2018-06-30 23:10:15.552
+!MESSAGE unresolved dependency: org.jboss.weld#weld-osgi-bundle;1.1.4.Final: org.jboss.weld#weld-core-parent;1.1.4.Final->org.jboss.weld#weld-parent;17
+!SUBENTRY 1 org.apache.ivyde.eclipse 4 4 2018-06-30 23:10:15.552
+!MESSAGE Impossible to resolve dependencies of rasp.web#ivy-api;1.0
+!SUBENTRY 2 org.apache.ivyde.eclipse 4 4 2018-06-30 23:10:15.552
+!MESSAGE unresolved dependency: org.springframework#org.springframework.web;3.2.0.RELEASE: not found
+!SUBENTRY 2 org.apache.ivyde.eclipse 4 4 2018-06-30 23:10:15.552
+!MESSAGE unresolved dependency: org.jboss.weld#weld-osgi-bundle;1.1.4.Final: org.jboss.weld#weld-core-parent;1.1.4.Final->org.jboss.weld#weld-parent;17
+
+!ENTRY org.apache.ivyde.eclipse 4 4 2018-06-30 23:21:37.473
+!MESSAGE Some projects fail to be resolved
+!SUBENTRY 1 org.apache.ivyde.eclipse 4 4 2018-06-30 23:21:37.473
+!MESSAGE Impossible to resolve dependencies of rasp.web#ivy-api;1.0
+!SUBENTRY 2 org.apache.ivyde.eclipse 4 4 2018-06-30 23:21:37.473
+!MESSAGE unresolved dependency: org.jboss.weld#weld-osgi-bundle;1.1.4.Final: org.jboss.weld#weld-core-parent;1.1.4.Final->org.jboss.weld#weld-parent;17
+
+!ENTRY org.apache.ivyde.eclipse 4 4 2018-06-30 23:22:12.575
+!MESSAGE Some projects fail to be resolved
+!SUBENTRY 1 org.apache.ivyde.eclipse 4 4 2018-06-30 23:22:12.575
+!MESSAGE Impossible to resolve dependencies of RaspWebApi#ivy-api;1.0
+!SUBENTRY 2 org.apache.ivyde.eclipse 4 4 2018-06-30 23:22:12.575
+!MESSAGE unresolved dependency: org.jboss.weld#weld-osgi-bundle;1.1.4.Final: org.jboss.weld#weld-core-parent;1.1.4.Final->org.jboss.weld#weld-parent;17
+
+!ENTRY org.apache.ivyde.eclipse 4 4 2018-06-30 23:25:40.020
+!MESSAGE Some projects fail to be resolved
+!SUBENTRY 1 org.apache.ivyde.eclipse 4 4 2018-06-30 23:25:40.020
+!MESSAGE Impossible to resolve dependencies of RaspWebApi#ivy-api;1.0
+!SUBENTRY 2 org.apache.ivyde.eclipse 4 4 2018-06-30 23:25:40.020
+!MESSAGE unresolved dependency: org.jboss.weld#weld-osgi-bundle;1.1.4.Final: org.jboss.weld#weld-core-parent;1.1.4.Final->org.jboss.weld#weld-parent;17
+
+!ENTRY org.apache.ivyde.eclipse 4 4 2018-06-30 23:27:22.549
+!MESSAGE Some projects fail to be resolved
+!SUBENTRY 1 org.apache.ivyde.eclipse 4 4 2018-06-30 23:27:22.549
+!MESSAGE Impossible to resolve dependencies of RaspWebApi#ivy-api;1.0
+!SUBENTRY 2 org.apache.ivyde.eclipse 4 4 2018-06-30 23:27:22.549
+!MESSAGE unresolved dependency: org.jboss.weld#weld-osgi-bundle;1.1.4.Final: org.jboss.weld#weld-parent;17
+
+!ENTRY org.apache.ivyde.eclipse 4 4 2018-06-30 23:30:50.588
+!MESSAGE Some projects fail to be resolved
+!SUBENTRY 1 org.apache.ivyde.eclipse 4 4 2018-06-30 23:30:50.588
+!MESSAGE Impossible to resolve dependencies of RaspWebApi#ivy-api;1.0
+!SUBENTRY 2 org.apache.ivyde.eclipse 4 4 2018-06-30 23:30:50.588
+!MESSAGE unresolved dependency: org.springframework#org.springframework.web;3.2.0.RELEASE: not found
+!SUBENTRY 2 org.apache.ivyde.eclipse 4 4 2018-06-30 23:30:50.588
+!MESSAGE unresolved dependency: org.jboss.weld#weld-osgi-bundle;1.1.4.Final: org.jboss.weld#weld-core-parent;1.1.4.Final->org.jboss.weld#weld-parent;17
+
+!ENTRY org.apache.ivyde.eclipse 4 4 2018-06-30 23:35:01.552
+!MESSAGE Some projects fail to be resolved
+!SUBENTRY 1 org.apache.ivyde.eclipse 4 4 2018-06-30 23:35:01.552
+!MESSAGE Impossible to resolve dependencies of rasp.web#ivy-api;1.0
+!SUBENTRY 2 org.apache.ivyde.eclipse 4 4 2018-06-30 23:35:01.552
+!MESSAGE unresolved dependency: org.springframework#org.springframework.web;3.2.0.RELEASE: not found
+
+!ENTRY org.apache.ivyde.eclipse 4 4 2018-06-30 23:35:18.933
+!MESSAGE Some projects fail to be resolved
+!SUBENTRY 1 org.apache.ivyde.eclipse 4 4 2018-06-30 23:35:18.933
+!MESSAGE Impossible to resolve dependencies of rasp.web#ivy-api;1.0
+!SUBENTRY 2 org.apache.ivyde.eclipse 4 4 2018-06-30 23:35:18.933
+!MESSAGE unresolved dependency: org.springframework#org.springframework.web;3.2.0.RELEASE: not found
+
+!ENTRY org.apache.ivyde.eclipse 4 4 2018-06-30 23:35:48.265
+!MESSAGE Some projects fail to be resolved
+!SUBENTRY 1 org.apache.ivyde.eclipse 4 4 2018-06-30 23:35:48.265
+!MESSAGE Impossible to resolve dependencies of rasp.web#ivy-api;1.0
+!SUBENTRY 2 org.apache.ivyde.eclipse 4 4 2018-06-30 23:35:48.265
+!MESSAGE unresolved dependency: org.springframework#org.springframework.web;3.2.0.RELEASE: not found
+
+!ENTRY org.apache.ivyde.eclipse 4 4 2018-06-30 23:40:43.769
+!MESSAGE Some projects fail to be resolved
+!SUBENTRY 1 org.apache.ivyde.eclipse 4 4 2018-06-30 23:40:43.769
+!MESSAGE Impossible to resolve dependencies of RaspberryService#ivy-api;1.0
+!SUBENTRY 2 org.apache.ivyde.eclipse 4 4 2018-06-30 23:40:43.769
+!MESSAGE unresolved dependency: org.springframework#org.springframework.web;3.2.0.RELEASE: not found
+
+!ENTRY org.apache.ivyde.eclipse 4 4 2018-06-30 23:41:41.899
+!MESSAGE Some projects fail to be resolved
+!SUBENTRY 1 org.apache.ivyde.eclipse 4 4 2018-06-30 23:41:41.899
+!MESSAGE Impossible to resolve dependencies of RaspberryService#ivy-api;1.0
+!SUBENTRY 2 org.apache.ivyde.eclipse 4 4 2018-06-30 23:41:41.899
+!MESSAGE unresolved dependency: org.springframework#org.springframework.web;3.2.0.RELEASE: not found
+
+!ENTRY org.apache.ivyde.eclipse 4 4 2018-07-01 01:20:03.606
+!MESSAGE Some projects fail to be resolved
+!SUBENTRY 1 org.apache.ivyde.eclipse 4 0 2018-07-01 01:20:03.606
+!MESSAGE Failed to load the descriptor for ivy.xml[*] in RapberryDataThe ivy file '/home/sul/workspaces/eclipse-workspaces/raspberryWebService/RapberryData/ivy.xml' could not be parsed: [[Fatal Error] ivy.xml:11:5: The content of elements must consist of well-formed character data or markup. in file:/home/sul/workspaces/eclipse-workspaces/raspberryWebService/RapberryData/ivy.xml
+]
+!STACK 0
+org.apache.ivyde.eclipse.IvyDEException: The ivy file '/home/sul/workspaces/eclipse-workspaces/raspberryWebService/RapberryData/ivy.xml' could not be parsed: [[Fatal Error] ivy.xml:11:5: The content of elements must consist of well-formed character data or markup. in file:/home/sul/workspaces/eclipse-workspaces/raspberryWebService/RapberryData/ivy.xml
+]
+	at org.apache.ivyde.internal.eclipse.CachedIvy.getModuleDescriptor(CachedIvy.java:382)
+	at org.apache.ivyde.internal.eclipse.resolve.IvyResolveJob.doRun(IvyResolveJob.java:162)
+	at org.apache.ivyde.internal.eclipse.resolve.IvyResolveJob.run(IvyResolveJob.java:85)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:56)
+Caused by: java.text.ParseException: [[Fatal Error] ivy.xml:11:5: The content of elements must consist of well-formed character data or markup. in file:/home/sul/workspaces/eclipse-workspaces/raspberryWebService/RapberryData/ivy.xml
+]
+	at org.apache.ivy.plugins.parser.AbstractModuleDescriptorParser$AbstractParser.checkErrors(AbstractModuleDescriptorParser.java:90)
+	at org.apache.ivy.plugins.parser.xml.XmlModuleDescriptorParser$Parser.parse(XmlModuleDescriptorParser.java:292)
+	at org.apache.ivy.plugins.parser.xml.XmlModuleDescriptorParser.parseDescriptor(XmlModuleDescriptorParser.java:123)
+	at org.apache.ivy.plugins.parser.ModuleDescriptorParserRegistry.parseDescriptor(ModuleDescriptorParserRegistry.java:84)
+	at org.apache.ivy.plugins.parser.AbstractModuleDescriptorParser.parseDescriptor(AbstractModuleDescriptorParser.java:50)
+	at org.apache.ivyde.internal.eclipse.CachedIvy.getModuleDescriptor(CachedIvy.java:375)
+	... 3 more
+
+!ENTRY org.apache.ivyde.eclipse 4 4 2018-07-01 01:27:24.313
+!MESSAGE Some projects fail to be resolved
+!SUBENTRY 1 org.apache.ivyde.eclipse 4 4 2018-07-01 01:27:24.313
+!MESSAGE Impossible to resolve dependencies of RaspberryData#ivy-api;1.0
+!SUBENTRY 2 org.apache.ivyde.eclipse 4 4 2018-07-01 01:27:24.313
+!MESSAGE download failed: javax.resource#connector;1.0!connector.jar
+!SUBENTRY 2 org.apache.ivyde.eclipse 4 4 2018-07-01 01:27:24.313
+!MESSAGE download failed: javax.transaction#jta;1.0.1B!jta.jar
+
+!ENTRY org.apache.ivyde.eclipse 4 4 2018-07-01 01:29:19.865
+!MESSAGE Some projects fail to be resolved
+!SUBENTRY 1 org.apache.ivyde.eclipse 4 4 2018-07-01 01:29:19.865
+!MESSAGE Impossible to resolve dependencies of RaspberryService#ivy-api;1.0
+!SUBENTRY 2 org.apache.ivyde.eclipse 4 4 2018-07-01 01:29:19.865
+!MESSAGE unresolved dependency: org.springframework#org.springframework.web;3.2.0.RELEASE: not found
+!SUBENTRY 2 org.apache.ivyde.eclipse 4 4 2018-07-01 01:29:19.865
+!MESSAGE unresolved dependency: org.jboss.weld#weld-osgi-bundle;1.1.4.Final: org.jboss.weld#weld-core-parent;1.1.4.Final->org.jboss.weld#weld-parent;17
+!SUBENTRY 1 org.apache.ivyde.eclipse 4 4 2018-07-01 01:29:19.865
+!MESSAGE Impossible to resolve dependencies of rasp.web#ivy-api;1.0
+!SUBENTRY 2 org.apache.ivyde.eclipse 4 4 2018-07-01 01:29:19.865
+!MESSAGE unresolved dependency: org.springframework#org.springframework.web;3.2.0.RELEASE: not found
+!SUBENTRY 2 org.apache.ivyde.eclipse 4 4 2018-07-01 01:29:19.865
+!MESSAGE unresolved dependency: org.jboss.weld#weld-osgi-bundle;1.1.4.Final: org.jboss.weld#weld-core-parent;1.1.4.Final->org.jboss.weld#weld-parent;17
+!SUBENTRY 1 org.apache.ivyde.eclipse 4 4 2018-07-01 01:29:19.865
+!MESSAGE Impossible to resolve dependencies of RaspberryData#ivy-api;1.0
+!SUBENTRY 2 org.apache.ivyde.eclipse 4 4 2018-07-01 01:29:19.865
+!MESSAGE download failed: javax.resource#connector;1.0!connector.jar
+!SUBENTRY 2 org.apache.ivyde.eclipse 4 4 2018-07-01 01:29:19.865
+!MESSAGE download failed: javax.transaction#jta;1.0.1B!jta.jar
+
+!ENTRY org.apache.ivyde.eclipse 4 4 2018-07-01 01:47:11.209
+!MESSAGE Some projects fail to be resolved
+!SUBENTRY 1 org.apache.ivyde.eclipse 4 4 2018-07-01 01:47:11.210
+!MESSAGE Impossible to resolve dependencies of RaspberryService#ivy-api;1.0
+!SUBENTRY 2 org.apache.ivyde.eclipse 4 4 2018-07-01 01:47:11.210
+!MESSAGE unresolved dependency: org.jboss.weld#weld-osgi-bundle;1.1.4.Final: org.jboss.weld#weld-core-parent;1.1.4.Final->org.jboss.weld#weld-parent;17
+
+!ENTRY org.apache.ivyde.eclipse 4 4 2018-07-01 01:47:40.475
+!MESSAGE Some projects fail to be resolved
+!SUBENTRY 1 org.apache.ivyde.eclipse 4 4 2018-07-01 01:47:40.475
+!MESSAGE Impossible to resolve dependencies of RaspberryService#ivy-api;1.0
+!SUBENTRY 2 org.apache.ivyde.eclipse 4 4 2018-07-01 01:47:40.475
+!MESSAGE unresolved dependency: org.jboss.weld#weld-osgi-bundle;1.1.4.Final: org.jboss.weld#weld-core-parent;1.1.4.Final->org.jboss.weld#weld-parent;17
+!SUBENTRY 1 org.apache.ivyde.eclipse 4 4 2018-07-01 01:47:40.475
+!MESSAGE Impossible to resolve dependencies of RaspberryData#ivy-api;1.0
+!SUBENTRY 2 org.apache.ivyde.eclipse 4 4 2018-07-01 01:47:40.475
+!MESSAGE download failed: javax.resource#connector;1.0!connector.jar
+!SUBENTRY 2 org.apache.ivyde.eclipse 4 4 2018-07-01 01:47:40.475
+!MESSAGE download failed: javax.transaction#jta;1.0.1B!jta.jar
+
+!ENTRY org.apache.ivyde.eclipse 4 4 2018-07-01 01:49:48.673
+!MESSAGE Some projects fail to be resolved
+!SUBENTRY 1 org.apache.ivyde.eclipse 4 4 2018-07-01 01:49:48.673
+!MESSAGE Impossible to resolve dependencies of RaspberryService#ivy-api;1.0
+!SUBENTRY 2 org.apache.ivyde.eclipse 4 4 2018-07-01 01:49:48.673
+!MESSAGE unresolved dependency: org.jboss.weld#weld-osgi-bundle;1.1.4.Final: org.jboss.weld#weld-core-parent;1.1.4.Final->org.jboss.weld#weld-parent;17
+
+!ENTRY org.apache.ivyde.eclipse 4 4 2018-07-01 01:50:05.329
+!MESSAGE Some projects fail to be resolved
+!SUBENTRY 1 org.apache.ivyde.eclipse 4 4 2018-07-01 01:50:05.329
+!MESSAGE Impossible to resolve dependencies of RaspberryData#ivy-api;1.0
+!SUBENTRY 2 org.apache.ivyde.eclipse 4 4 2018-07-01 01:50:05.329
+!MESSAGE download failed: javax.resource#connector;1.0!connector.jar
+!SUBENTRY 2 org.apache.ivyde.eclipse 4 4 2018-07-01 01:50:05.329
+!MESSAGE download failed: javax.transaction#jta;1.0.1B!jta.jar
+
+!ENTRY org.apache.ivyde.eclipse 4 4 2018-07-01 01:50:47.924
+!MESSAGE Some projects fail to be resolved
+!SUBENTRY 1 org.apache.ivyde.eclipse 4 4 2018-07-01 01:50:47.924
+!MESSAGE Impossible to resolve dependencies of RaspberryData#ivy-api;1.0
+!SUBENTRY 2 org.apache.ivyde.eclipse 4 4 2018-07-01 01:50:47.924
+!MESSAGE download failed: javax.resource#connector;1.0!connector.jar
+!SUBENTRY 2 org.apache.ivyde.eclipse 4 4 2018-07-01 01:50:47.924
+!MESSAGE download failed: javax.transaction#jta;1.0.1B!jta.jar
+
+!ENTRY org.apache.ivyde.eclipse 4 4 2018-07-01 01:52:05.715
+!MESSAGE Some projects fail to be resolved
+!SUBENTRY 1 org.apache.ivyde.eclipse 4 4 2018-07-01 01:52:05.715
+!MESSAGE Impossible to resolve dependencies of RaspberryData#ivy-api;1.0
+!SUBENTRY 2 org.apache.ivyde.eclipse 4 4 2018-07-01 01:52:05.715
+!MESSAGE download failed: javax.resource#connector;1.0!connector.jar
+
+!ENTRY org.apache.ivyde.eclipse 4 4 2018-07-01 01:52:25.632
+!MESSAGE Some projects fail to be resolved
+!SUBENTRY 1 org.apache.ivyde.eclipse 4 4 2018-07-01 01:52:25.632
+!MESSAGE Impossible to resolve dependencies of RaspberryData#ivy-api;1.0
+!SUBENTRY 2 org.apache.ivyde.eclipse 4 4 2018-07-01 01:52:25.632
+!MESSAGE download failed: javax.resource#connector;1.0!connector.jar
+!SUBENTRY 2 org.apache.ivyde.eclipse 4 4 2018-07-01 01:52:25.632
+!MESSAGE download failed: javax.transaction#jta;1.0.1B!jta.jar
+
+!ENTRY org.apache.ivyde.eclipse 4 4 2018-07-01 01:55:13.101
+!MESSAGE Some projects fail to be resolved
+!SUBENTRY 1 org.apache.ivyde.eclipse 4 4 2018-07-01 01:55:13.101
+!MESSAGE Impossible to resolve dependencies of RaspberryService#ivy-api;1.0
+!SUBENTRY 2 org.apache.ivyde.eclipse 4 4 2018-07-01 01:55:13.101
+!MESSAGE unresolved dependency: org.jboss.weld#weld-osgi-bundle;1.1.4.Final: org.jboss.weld#weld-core-parent;1.1.4.Final->org.jboss.weld#weld-parent;17
+
+!ENTRY org.apache.ivyde.eclipse 4 4 2018-07-01 01:56:34.756
+!MESSAGE Some projects fail to be resolved
+!SUBENTRY 1 org.apache.ivyde.eclipse 4 4 2018-07-01 01:56:34.756
+!MESSAGE Impossible to resolve dependencies of RaspberryService#sample-java-project;working@Sulaiman-Ubuntu
+!SUBENTRY 2 org.apache.ivyde.eclipse 4 4 2018-07-01 01:56:34.756
+!MESSAGE unresolved dependency: org.jboss.weld#weld-osgi-bundle;1.1.4.Final: org.jboss.weld#weld-core-parent;1.1.4.Final->org.jboss.weld#weld-parent;17
+
+!ENTRY org.apache.ivyde.eclipse 4 4 2018-07-01 01:58:42.530
+!MESSAGE Some projects fail to be resolved
+!SUBENTRY 1 org.apache.ivyde.eclipse 4 4 2018-07-01 01:58:42.530
+!MESSAGE Impossible to resolve dependencies of RaspberryData#sample-java-project;working@Sulaiman-Ubuntu
+!SUBENTRY 2 org.apache.ivyde.eclipse 4 4 2018-07-01 01:58:42.530
+!MESSAGE download failed: javax.resource#connector;1.0!connector.jar
+!SUBENTRY 2 org.apache.ivyde.eclipse 4 4 2018-07-01 01:58:42.530
+!MESSAGE download failed: javax.transaction#jta;1.0.1B!jta.jar
+
+!ENTRY org.apache.ivyde.eclipse 4 4 2018-07-01 02:00:09.519
+!MESSAGE Some projects fail to be resolved
+!SUBENTRY 1 org.apache.ivyde.eclipse 4 0 2018-07-01 02:00:09.519
+!MESSAGE Failed to load the descriptor for ivy.xml[*] in RapberryDataThe ivy file '/home/sul/workspaces/eclipse-workspaces/raspberryWebService/RapberryData/ivy.xml' could not be parsed: [[Fatal Error] ivy.xml:24:63: The value of attribute "rev" associated with an element type "dependency" must not contain the '<' character. in file:/home/sul/workspaces/eclipse-workspaces/raspberryWebService/RapberryData/ivy.xml
+]
+!STACK 0
+org.apache.ivyde.eclipse.IvyDEException: The ivy file '/home/sul/workspaces/eclipse-workspaces/raspberryWebService/RapberryData/ivy.xml' could not be parsed: [[Fatal Error] ivy.xml:24:63: The value of attribute "rev" associated with an element type "dependency" must not contain the '<' character. in file:/home/sul/workspaces/eclipse-workspaces/raspberryWebService/RapberryData/ivy.xml
+]
+	at org.apache.ivyde.internal.eclipse.CachedIvy.getModuleDescriptor(CachedIvy.java:382)
+	at org.apache.ivyde.internal.eclipse.resolve.IvyResolveJob.doRun(IvyResolveJob.java:162)
+	at org.apache.ivyde.internal.eclipse.resolve.IvyResolveJob.run(IvyResolveJob.java:85)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:56)
+Caused by: java.text.ParseException: [[Fatal Error] ivy.xml:24:63: The value of attribute "rev" associated with an element type "dependency" must not contain the '<' character. in file:/home/sul/workspaces/eclipse-workspaces/raspberryWebService/RapberryData/ivy.xml
+]
+	at org.apache.ivy.plugins.parser.AbstractModuleDescriptorParser$AbstractParser.checkErrors(AbstractModuleDescriptorParser.java:90)
+	at org.apache.ivy.plugins.parser.xml.XmlModuleDescriptorParser$Parser.parse(XmlModuleDescriptorParser.java:292)
+	at org.apache.ivy.plugins.parser.xml.XmlModuleDescriptorParser.parseDescriptor(XmlModuleDescriptorParser.java:123)
+	at org.apache.ivy.plugins.parser.ModuleDescriptorParserRegistry.parseDescriptor(ModuleDescriptorParserRegistry.java:84)
+	at org.apache.ivy.plugins.parser.AbstractModuleDescriptorParser.parseDescriptor(AbstractModuleDescriptorParser.java:50)
+	at org.apache.ivyde.internal.eclipse.CachedIvy.getModuleDescriptor(CachedIvy.java:375)
+	... 3 more

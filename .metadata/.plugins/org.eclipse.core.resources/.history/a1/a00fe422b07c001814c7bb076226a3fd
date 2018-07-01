@@ -1,0 +1,26 @@
+package com.rasp.rest.service.v1;
+
+import java.awt.PageAttributes.MediaType;
+import java.util.logging.LogManager;
+import java.util.logging.Logger;
+
+/**
+ * 
+ * @author sul
+ *
+ */
+
+@Path("/")
+public class RaspRestService {
+
+	private static final Logger LOG = LogManager.getLogger(RaspRestService.class);
+
+	@Path("/hello")
+	public class HelloResource {
+		@GET
+		@Produces(MediaType.TEXT_PLAIN)
+		public String sayHello() {
+			return "Hello Jersey";
+		}
+	}
+}
